@@ -107,7 +107,7 @@
             android:key="qs_transparency"
             android:title="@string/qs_opacity_title"
             android:summary="@string/qs_opacity_summary"
-            android:defaultValue="100"
+            android:defaultValue="90"
             settings:interval="1"
             settings:units="%"
             android:max="100"
